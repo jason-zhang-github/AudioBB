@@ -1,6 +1,7 @@
 package com.example.audiobb
 
-import 
+import java.io.Serializable
 
-class Book {
+data class Book (val resourceId: Int, val title: String, val author: String) : Serializable{
+
 }
