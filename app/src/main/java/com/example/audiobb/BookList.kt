@@ -1,8 +1,10 @@
 package com.example.audiobb
 
-class BookList (book_: Book){
+class BookList()
+{
 
     var books : ArrayList<Book> = arrayListOf()
+
     fun add(book : Book)
     {
         books.add(book)
