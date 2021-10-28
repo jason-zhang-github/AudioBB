@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">AudioBB</string>
+    <string name="choi">Mary HK Choi</string>
+    <string name="zauner">Michelle Zauner</string>
+    <string name="hong">Cathy Park Hong</string>
+    <string name="lee">Min Jin Lee</string>
+    <string name="leilani">Raven Leilani</string>
+    <string name="said">Edward Said</string>
+    <string name="albers">Josef Albers</string>
+    <string name="murakami">Haruki Murakami</string>
+    <string name="lahiri">Jhumpa Lahiri</string>
+    <string name="morrison">Toni Morrison</string>
+
+    <string name="yolk">Yolk</string>
+    <string name="hmart">Crying In HMart</string>
+    <string name="feelings">Minor Feelings</string>
+    <string name="pachinko">Pachinko</string>
+    <string name="luster">Luster</string>
+    <string name="orientalism">Orientalism</string>
+    <string name="color">Interaction of Color</string>
+    <string name="shore">Kafka By The Shore</string>
+    <string name="maladies">Interpreter of Maladies</string>
+    <string name="beloved">Beloved</string>
 </resources>
